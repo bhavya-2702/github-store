@@ -1,0 +1,344 @@
+.cat{
+    margin: 100px;
+   text-align: center;
+   font-family: "Great Vibes";
+   font-weight: 400;
+   font-style: normal;
+}
+
+.btn{
+    font-family: "Great Vibes";
+   font-weight: 400;
+   font-style: normal;
+}
+.products{
+    height: 300px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    margin-top: 50px;
+}
+.img1{
+    margin-left: 100px;
+    width: 300px;
+    height: 300px;
+}
+.img2{
+    margin-left: 70px;
+    width: 300px;
+    height: 300px;
+}
+.img3{
+    margin-left: 70px;
+    width: 300px;
+}
+.content{
+    height: 300px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+.iw{
+    text-align: center;
+    margin-top: 100px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.ww{
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 50px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.as{
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 50px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.pro{
+    margin: 100px;
+    padding-left: 550px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.list{
+    height: 200px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap:10px;
+    margin-top: 50px;
+}
+.lehenga{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+}
+.lehenga:hover{
+    transform: scale(1.5);
+}
+.chain{
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+}
+.chain:hover{
+    transform: scale(1.5);
+}
+.kurti{
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+}
+.kurti:hover{
+    transform: scale(1.5);
+}
+.bag{
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+}
+.bag:hover{
+    transform: scale(1.5);
+}
+.gown{
+    height: 200px;
+    width: 200px;
+    margin-left: 10px;
+}
+.gown:hover{
+    transform: scale(1.5);
+}
+.heel{
+    height: 200px;
+    width: 200px;
+    margin-left: 15px;
+}
+.heel:hover{
+    transform: scale(1.5);
+}
+.itemsname{
+    height: 200px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.n1{
+    margin-left: 43px;
+    margin-top: 20px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.n2{
+    margin-top: 20px;
+    margin-left: 12px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.n3{
+    margin-top: 20px;
+    margin-left: 45px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.n4{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.n5{
+    margin-top: 20px;
+    margin-left: 53px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.n6{
+    margin-top: 20px;
+    margin-left: 48px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.material-symbols-outlined{
+    margin-left: 50px;
+    
+}
+.box{
+    background-color: rgb(252, 228, 238);
+    height: 615px;
+    width: 1400px;
+    margin-left: 60px;
+}
+.boximg{
+    float: left;
+    height: 550px;
+    width: 600px;
+    margin: 30px;
+}
+.about{
+    padding-top: 40px;
+    text-align: center;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.p1{
+    margin-top: 70px;
+    padding-right: 30px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+ 
+}
+.p2{
+    margin-top: 60px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+    
+}
+.gal{
+    margin-top: 55px;
+    padding-bottom: 40px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+.galitems{
+    margin-top: 50px;
+    height: 300px;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+.gal1{
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+}
+.gal2{
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.gal3{
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+}
+.gal4{
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+}
+.feedhead{
+    margin-top: 50px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+.feedback{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(250, 231, 239);
+    height: 300px;
+    width:1470px ;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.feedimg{
+    height: 200px;
+    width: 300px;
+    margin: 50px;
+}
+.reb{
+    font-weight: 400;
+    margin: 70px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.rebpara{
+    padding-bottom: 30px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.contact{
+    text-align: center;
+    margin-top: 70px;
+    padding-bottom: 60px;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.contactinfo{
+    text-align: center;
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.head1{
+    background-color:rgb(252, 228, 238);
+    height: 48px;
+    width: 100vw;
+}
+.head2{
+    background-color:rgb(252, 228, 238);
+    height: 48px;
+    width: 100vw;
+    margin-bottom: 80px;
+}
+.head3{
+    background-color:rgb(252, 228, 238);
+    height: 48px;
+    width: 100vw;
+}
+.head4{
+    background-color:rgb(252, 228, 238);
+    height: 48px;
+    width: 100vw;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bokor&family=Great+Vibes&family=Oswald:wght@200..700&family=Protest+Revolution&family=Yesteryear&display=swap');
+
+.navbar-brand{
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.nav-link {
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.dropdown-item{
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+.btn{
+    font-family: "Great Vibes";
+    font-weight: 400;
+    font-style: normal;
+}
+
